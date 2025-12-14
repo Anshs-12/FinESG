@@ -11,11 +11,11 @@ AI-powered ESG (Environmental, Social, Governance) analysis and reporting platfo
 
 This project was developed by:
 
-- **[Ansh Sugandhi](https://github.com/Anshs-12)** - <anshsugandhi12@gmail.com>
-- **[Ananya](https://github.com/ananya-gh-05)** - <ananya6j@gmail.com>
-- **[Anshita Sugandhi](https://github.com/Anshitas-12)** - <anshitasugandhi12@gmail.com>
-- **[Deepak J](https://github.com/jdeepak1218)** - <jdeepak1218@gmail.com>
-- **[Shriya Pothamshetty](https://github.com/Shriya-1206)** - <shriyapothamshetty@gmail.com>
+- **[Ansh S](https://github.com/Anshs-12)**
+- **[Ananya](https://github.com/ananya-gh-05)**
+- **[Anshita S](https://github.com/Anshitas-12)**
+- **[Deepak J](https://github.com/jdeepak1218)**
+- **[Shriya](https://github.com/Shriya-1206)**
 
 ## 📄 Research Paper & Documentation
 
